@@ -10,4 +10,4 @@ while space_num != 0:
     space_num-= 1
     num_ast += 2
     line_num += 1
-print ("Merry Christmas!")
+print ("Feliz Natal!")
