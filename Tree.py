@@ -4,6 +4,8 @@ space_num = 0
 
 line_num = space_num = int(input("Escolhe um número: "))
 
+print(" ")
+
 
 while space_num != 0:
     print(" "*int(space_num) + "*"*num_ast)
