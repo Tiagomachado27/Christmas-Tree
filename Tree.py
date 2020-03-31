@@ -13,3 +13,5 @@ while space_num != 0:
     num_ast += 2
     line_num += 1
 print ("Feliz Natal!")
+
+input()
